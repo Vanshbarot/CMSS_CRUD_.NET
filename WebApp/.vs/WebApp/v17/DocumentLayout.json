@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VanshProjects\\WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06B6B939-4DC3-43BF-91F9-ACC7A150DCDA}|WebApp\\WebApp.csproj|c:\\vanshprojects\\webapp\\webapp\\userlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{06B6B939-4DC3-43BF-91F9-ACC7A150DCDA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\userlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B6B939-4DC3-43BF-91F9-ACC7A150DCDA}|WebApp\\WebApp.csproj|C:\\VanshProjects\\WebApp\\webapp\\mainpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{06B6B939-4DC3-43BF-91F9-ACC7A150DCDA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\mainpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserLogin.aspx",
+              "DocumentMoniker": "C:\\VanshProjects\\WebApp\\WebApp\\UserLogin.aspx",
+              "RelativeDocumentMoniker": "WebApp\\UserLogin.aspx",
+              "ToolTip": "C:\\VanshProjects\\WebApp\\WebApp\\UserLogin.aspx",
+              "RelativeToolTip": "WebApp\\UserLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T10:59:01.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.aspx",
+              "DocumentMoniker": "C:\\VanshProjects\\WebApp\\WebApp\\MainPage.aspx",
+              "RelativeDocumentMoniker": "WebApp\\MainPage.aspx",
+              "ToolTip": "C:\\VanshProjects\\WebApp\\WebApp\\MainPage.aspx",
+              "RelativeToolTip": "WebApp\\MainPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-31T12:39:46.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
